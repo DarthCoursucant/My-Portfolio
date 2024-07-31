@@ -3,3 +3,16 @@
     height: 2px; /* Adjust height as needed */
     background-color: #fffa00; /* Change color as needed */
 }
+
+#projects-index-body-link a, #about-index-body-link a, #hire-index-body-link a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.buttons-index {
+    display: flex;
+}
+
+#about-index-body-link, #hire-index-body-link {
+    margin-left: 50px;
+}
