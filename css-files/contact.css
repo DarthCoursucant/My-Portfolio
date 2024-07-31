@@ -1,11 +1,11 @@
 .quickly-infomation-thing {
-    margin: 30px 0px 0px 350px;
+    text-align: center;
+    margin: 50px 0px 30px 0px;
 }
 
 .quickly-infomation-thing h1 {
-    font-size: 40px;
+    font-size: 50px;
     text-transform: capitalize;
-    margin: 40px 0px 100px 0px;
 }
 
 .contact-container {
@@ -17,7 +17,6 @@
     color: #000000;
     box-shadow: 0px 0px 10px 10px #626592;
 }
-
 
 #contact-links a {
     text-decoration: none;
