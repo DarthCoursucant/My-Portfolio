@@ -51,3 +51,12 @@
 .about-me-container {
     margin-top: 50px;
 }
+
+.about-me-page-main-header {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.about-me-page-main-header h1 {
+  font-size: 50px;
+}
