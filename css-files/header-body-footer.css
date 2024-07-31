@@ -57,14 +57,14 @@ main {
 }
 
 .header-right {
-    margin-left: 840px;
+    margin-left: 770px;
 }
 
 #projects-links-header, #hire-me-link-header {
     margin-left: 50px;
 }
 
-#header-left a, #about-me-link-header a, #projects-links-header a, #hire-me-link-header a {
+#header-left a, #about-me-link-header a, #projects-links-header a, #hire-me-link-header a, #certificates-links-header a {
     text-decoration: none;
     color: #ffffff;
 }
