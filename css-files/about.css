@@ -23,11 +23,27 @@
     margin-top: -385px;
   }
 
-  #paragraph-about, #paragraph-about-one {
+  #paragraph-about, #paragraph-about-one, #paragraph-about-twice {
     width: 1200px;
     text-transform: capitalize;
   }
 
 .decor-section-one {
     margin-top: 60px;
+}
+
+.decor-section-second {
+    margin-top: -10px;
+}
+
+#header-about-twice h1 {
+    margin-top: -690px;
+}
+
+.marketing-section, .decor-section-last {
+    margin-bottom: 300px;
+}
+
+.decor-section-last {
+    margin-top: 90px;
 }
