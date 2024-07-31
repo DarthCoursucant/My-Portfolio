@@ -1,0 +1,25 @@
+#about-me-link-header {
+    margin-left: 70px;
+}
+
+.certificates-container {
+    display: flex;
+    margin: 100px 0px 0px 50px;
+}
+
+.certificates-one img, .certificate-two img {
+    width: 400px;
+}
+
+.certificate-two {
+    margin-left: 50px;
+}
+
+.certificate-main-page-header {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.certificate-main-page-header h1 {
+    font-size: 50px;
+}
