@@ -45,3 +45,29 @@ main {
     color: #ffffff;
     z-index: 1;
 }
+
+.page-header, .header-right {
+    display: flex;
+}
+
+.page-header {
+    float: left;
+    margin-top: 10px;
+}
+
+#header-left {
+    margin-left: 20px;
+}
+
+.header-right {
+    margin-left: 840px;
+}
+
+#projects-links-header, #hire-me-link-header {
+    margin-left: 50px;
+}
+
+#header-left a, #about-me-link-header a, #projects-links-header a, #hire-me-link-header a {
+    text-decoration: none;
+    color: #ffffff;
+}
